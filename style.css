@@ -58,3 +58,12 @@ body {
 .link__1 {
 	text-decoration: none;
 }
+.realms{
+    position: absolute;
+    color:#fff;
+    font-family:Roboto, sans-serif;
+    font-size: 60px;
+    text-align: center;
+    width: 100%;
+    margin-top: 100px;
+}
